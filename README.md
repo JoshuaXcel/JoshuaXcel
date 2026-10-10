@@ -37,14 +37,14 @@ I'm an AI & Machine Learning Engineer with a background in web development, from
 
 ### 🚀 Featured projects
 
-| Project | What it is | Links |
-|---|---|---|
-| **joshuamudana-portfolio** | My personal portfolio site | [Live](https://joshuaxcel.github.io/joshuamudana-portfolio/) · [Code](https://github.com/JoshuaXcel/joshuamudana-portfolio) |
-| **study-score-predictor** | Streamlit app that predicts an exam score from hours studied with a scikit-learn Linear Regression model | [Code](https://github.com/JoshuaXcel/study-score-predictor) |
-| **review-classification** | Streamlit app that classifies a customer review as positive or negative (TF-IDF + Logistic Regression) | [Code](https://github.com/JoshuaXcel/review-classification) |
-| **titanic-model** | Titanic survival predictor: an SVM (RBF kernel) served in a Streamlit app with interactive Plotly charts | [Code](https://github.com/JoshuaXcel/titanic-model) |
-| **weather-app-backend** | FastAPI + SQLAlchemy backend to fetch, store, manage and export weather data for any location | [Code](https://github.com/JoshuaXcel/weather-app-backend) |
-| **chapel-of-faith-futa** | Church website and admin panel for Chapel of Faith, FUTA (FastAPI backend in progress) | [Live](https://joshuaxcel.github.io/chapel-of-faith-futa/) · [Code](https://github.com/JoshuaXcel/chapel-of-faith-futa) |
+| Project | What it is |
+|---|---|
+| [**joshuamudana-portfolio**](https://github.com/JoshuaXcel/joshuamudana-portfolio)<br>[🌐 Live](https://joshuaxcel.github.io/joshuamudana-portfolio/) | My personal portfolio site |
+| [**study-score-predictor**](https://github.com/JoshuaXcel/study-score-predictor) | Streamlit app that predicts an exam score from hours studied, using a scikit-learn Linear Regression model |
+| [**review-classification**](https://github.com/JoshuaXcel/review-classification) | Streamlit app that classifies a customer review as positive or negative (TF-IDF + Logistic Regression) |
+| [**titanic-model**](https://github.com/JoshuaXcel/titanic-model) | Titanic survival predictor: an SVM (RBF kernel) in a Streamlit app with interactive Plotly charts |
+| [**weather-app-backend**](https://github.com/JoshuaXcel/weather-app-backend) | FastAPI + SQLAlchemy backend to fetch, store, manage and export weather data for any location |
+| [**chapel-of-faith-futa**](https://github.com/JoshuaXcel/chapel-of-faith-futa)<br>[🌐 Live](https://joshuaxcel.github.io/chapel-of-faith-futa/) | Church website and admin panel for Chapel of Faith, FUTA (FastAPI backend in progress) |
 
 ### 📊 GitHub activity
 <p>
