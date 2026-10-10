@@ -46,10 +46,9 @@ I'm an AI & Machine Learning Engineer with a background in web development, from
 | **weather-app-backend** | FastAPI + SQLAlchemy backend to fetch, store, manage and export weather data for any location | [Code](https://github.com/JoshuaXcel/weather-app-backend) |
 | **chapel-of-faith-futa** | Church website and admin panel for Chapel of Faith, FUTA (FastAPI backend in progress) | [Live](https://joshuaxcel.github.io/chapel-of-faith-futa/) · [Code](https://github.com/JoshuaXcel/chapel-of-faith-futa) |
 
-### 📊 GitHub stats
+### 📊 GitHub activity
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JoshuaXcel&show_icons=true&hide_rank=true&hide_border=true&bg_color=01102A&title_color=3B82F6&icon_color=60A5FA&text_color=E2E8F0" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=JoshuaXcel&hide_border=true&background=01102A&ring=3B82F6&fire=60A5FA&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=60A5FA&sideLabels=93C5FD&dates=94A3B8&stroke=1E3A8A" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=JoshuaXcel&hide_border=true&disable_animations=true&background=01102A&ring=3B82F6&fire=60A5FA&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=60A5FA&sideLabels=93C5FD&dates=94A3B8&stroke=1E3A8A" alt="GitHub streak" />
 </p>
 
 ### 📫 Let's connect
