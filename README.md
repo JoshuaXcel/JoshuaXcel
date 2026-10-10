@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/excel-neon.png" width="140" alt="Excel logo" />
+</p>
+
 <h1 align="center">Hi, I'm Joshua Mudana (Excel) 👋</h1>
 <h3 align="center">AI & Machine Learning Engineer · Building Smart Systems</h3>
 
